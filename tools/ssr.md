@@ -1,8 +1,8 @@
-https://www.xzymoe.com/linux-ssr/
-
-
+# ssr
 
 ### 安装
+
+https://www.xzymoe.com/linux-ssr/
 
 
 
@@ -10,7 +10,10 @@ https://www.xzymoe.com/linux-ssr/
 
 ssr config
 
-从手机导出的 ssr:// 格式，需要转换成 json 格式，比如用这个：https://html50.github.io/ssr2json/
+从手机导出的 ssr:// 格式，需要转换成 json 格式，
+
+- https://html50.github.io/ssr2json/
+- https://www.jisuan.mobi/v6B3Bb3BBBumUPxJ.html
 
 ### 终端使用ssr
 

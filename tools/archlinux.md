@@ -302,3 +302,6 @@ default_image="/boot/initramfs-linux.img"
 
 
 
+### swap
+
+支持文件作为swap分区，参考wiki
